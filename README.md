@@ -1,9 +1,11 @@
 # MWM Preview
 
-Compiled dense avatar orbit and motion-synchronized typing/backspace mock prototype from private source commit `d81abb49555023944cbef01f60ef6b4022b6fbcd`.
+Compiled animated mock Login/Signup, Galaxy navigation and 6.5-second successive foreground-room spacing from private source commit `554cae61128dc62a2023cc766db04958f8ec7123`.
 
-Status: implemented / awaiting owner visual and physical-phone approval. Density, timing and bounded reversing sweep are prototype proposals. Foreground previews use local mock data only. No real messaging or authentication.
+Use sample credentials only. Any non-empty sample password works. Username `orbit` succeeds; Login `invalid` and Signup `taken` demonstrate errors; `retry` temporarily fails once per form/provider lifetime, then succeeds. No real account, authentication or message is created. Only a non-sensitive tab-scoped demo profile may be stored.
+
+Existing orbital appearance/interaction is owner-approved. New auth styling/motion and 6.5-second initial tuning await review; physical-phone/performance/final-brand approval is not claimed. Intended pilot is text messaging between five people. Profile, Settings, full Conversation, Matrix and server deployment are subsequent work.
 
 Live URL: https://amir3m.github.io/mwm-preview/
 
-Only reviewed compiled HTML/JS/CSS and minimal preview metadata are stored here. Source updates require rebuilding with `base=/mwm-preview/` and source maps disabled, then publishing this repository. Pages uses main / root; settings are unchanged.
+Only reviewed compiled HTML/JS/CSS and minimal preview metadata are stored here. Build with `base=/mwm-preview/` and source maps disabled. Pages uses main / root; settings are unchanged. Private source/history, review media, credentials and real user data are excluded.
