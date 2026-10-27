@@ -1,13 +1,11 @@
 # MWM Preview
 
-Compiled mock Login/Signup with visibly traveling orbital light points, purple/indigo illumination, a restrained glass-border highlight and coordinated outgoing/incoming shared-shell form transitions, from private source commit `0c46105fed3f6caa0c7c7a341ed37680d775849e`.
+Compiled mock Milky Way Messenger from private source commit `c02535e47d6261b80077402466debf97260679b6`.
 
-Use sample credentials only. Any non-empty sample password works. Username `orbit` succeeds; Login `invalid` and Signup `taken` demonstrate errors; `retry` temporarily fails once per form/provider lifetime, then succeeds. No real account, authentication or message is created. A non-sensitive tab-scoped demo profile and the music on/off preference may be stored locally. Reduced motion keeps a static atmosphere and instant functional form navigation.
+Sample credentials only; no real authentication, messaging, uploads or encryption. Open rooms from Galaxy or the room list for direct/group/channel conversations. Optional Live Typing starts off; Conversation options opens an in-browser participant/transport demo lab. Drafts/messages/files remain local to this demo; only the non-sensitive demo profile and music preference may use browser storage. Reload clears conversation state.
 
-The owner accepts the 6.5-second successive foreground-room pace and reports the other delivered auth behavior/styling good. The visible-motion correction awaits review; physical-phone/performance/final-brand certification is not claimed. Galaxy Home and orbital speed are unchanged by this correction. Intended pilot is five people/text only. Profile, Settings, full Conversation, Matrix and server deployment remain subsequent work.
-
-The owner's supplied background music loads only after signed-in entry when enabled. One player continues across signed-in views; the header speaker control pauses/resumes, with Play music if autoplay needs permission. Initial choices for review: loop, approximately 20% volume where supported, and hidden-tab pause. The optimized MP3 is intentionally public/downloadable; the untouched source master and private review evidence are excluded.
+The existing local background music continues across signed-in views. Use the speaker control for on/off and Play music if autoplay needs permission. The optimized supplied MP3 is intentionally public/downloadable. Reduced motion is respected.
 
 Live URL: https://amir3m.github.io/mwm-preview/
 
-Only reviewed compiled HTML/JS/CSS, the optimized supplied MP3 and minimal preview metadata are stored here. Build with `base=/mwm-preview/` and source maps disabled. Pages uses main / root; settings are unchanged. Private source/history, review media, credentials and real user data are excluded.
+Only compiled HTML/JS/CSS, the optimized music asset and minimal version metadata are published. No source/history, source maps, dependencies, private review media, secrets or real user data. Existing Pages main/root settings and .nojekyll are preserved. Visual/physical-phone review and real Matrix integration remain pending.
