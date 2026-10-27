@@ -1,8 +1,8 @@
 # MWM Preview
 
-Compiled travel and Category Orbit mock prototype from private source commit `95543aea048e439a3a858c0136afb39dbbb9cc53`.
+Compiled dense avatar orbit and motion-synchronized typing/backspace mock prototype from private source commit `d81abb49555023944cbef01f60ef6b4022b6fbcd`.
 
-Status: implemented / awaiting owner visual and physical-phone approval. Timing and bounded reversing sweep are prototype proposals. No real messaging or authentication.
+Status: implemented / awaiting owner visual and physical-phone approval. Density, timing and bounded reversing sweep are prototype proposals. Foreground previews use local mock data only. No real messaging or authentication.
 
 Live URL: https://amir3m.github.io/mwm-preview/
 
