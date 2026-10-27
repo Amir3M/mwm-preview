@@ -1,7 +1,9 @@
 # MWM Preview
 
-Compiled Home Galaxy mock UI from private source commit 2d0937783f1671a1c1e71af26679c606bac6c7c3.
+Compiled travel and Category Orbit mock prototype from private source commit `95543aea048e439a3a858c0136afb39dbbb9cc53`.
 
-Enable Settings > Pages > Deploy from a branch > main > / (root).
+Status: implemented / awaiting owner visual and physical-phone approval. Timing and bounded reversing sweep are prototype proposals. No real messaging or authentication.
 
-Only compiled public assets are stored here. Source updates require rebuilding and publishing this repository.
+Live URL: https://amir3m.github.io/mwm-preview/
+
+Only reviewed compiled HTML/JS/CSS and minimal preview metadata are stored here. Source updates require rebuilding with `base=/mwm-preview/` and source maps disabled, then publishing this repository. Pages uses main / root; settings are unchanged.
